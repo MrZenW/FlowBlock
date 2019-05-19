@@ -1,0 +1,24 @@
+{
+  "name": "flowblock",
+  "version": "0.0.1",
+  "description": "A new kind of programming method.",
+  "main": "flowblock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenboss/FlowBlock.git"
+  },
+  "keywords": [
+    "flowblock",
+    "flow",
+    "block"
+  ],
+  "author": "Zen WANG <zenyes@gmail.com> (https://github.com/zenboss)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenboss/FlowBlock/issues"
+  },
+  "homepage": "https://github.com/zenboss/FlowBlock#readme"
+}
